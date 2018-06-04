@@ -1,0 +1,39 @@
+body
+{
+	
+}
+
+.container
+{
+	width: 260px;
+	padding: 8px 8px 20px 8px;
+	margin: 20px auto;
+}
+#itemans {
+  background-color: black;
+  color: white;
+  text-align: right;
+  padding:10px;
+}
+#itemmemory {
+  background-color: black;
+  color: white;
+  text-align: right;
+  padding:10px;
+  height:1px;
+  font-size:10pt;
+}
+.btn {
+  background-color: dimgray;
+  border: none;
+  color: white;
+  
+  text-align: center;
+  margin: 4px 3px;
+  padding: 20px;
+  width: 55px;
+}
+.btn:hover
+{
+	background-color: #bfbbbb;
+}
